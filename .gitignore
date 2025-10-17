@@ -1,0 +1,6 @@
+*.zip
+*.unity
+*.txt
+*.csv
+/obj/*
+/bin/*
